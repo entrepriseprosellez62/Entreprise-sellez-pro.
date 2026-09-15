@@ -1,0 +1,61 @@
+/* Style général du site - Entreprise Pro Sellez */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f7f4;
+    color: #2b3e2b;
+}
+
+header {
+    background-color: #1b381b;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header nav a {
+    color: #a3e4d7;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+section {
+    background: white;
+    margin-bottom: 20px;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #1b381b;
+    border-bottom: 2px solid #a3e4d7;
+    padding-bottom: 8px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #27ae60;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #1b381b;
+    color: white;
+    margin-top: 20px;
+}
